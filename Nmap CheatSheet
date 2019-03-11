@@ -1,0 +1,1 @@
+nmap -d --packet-trace -p22,139 -sS x.x.x.x
